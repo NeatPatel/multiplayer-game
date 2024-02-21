@@ -1,6 +1,6 @@
 # Building a 2D Multiplayer JavaScript-Node.js Game with PlayCanvas and Glitch
 
-![]()
+![](https://github.com/NeatPatel/multiplayer-game/blob/main/images/game_main_menu.png?raw=true)
 
 ## Introduction:
 In this tutorial, we'll guide you through the process of creating a 2D multiplayer JavaScript-Node.js video game, leveraging the power of PlayCanvas for the client-side development and Glitch for hosting the server-side code. By following these steps, you'll be able to build and deploy your own multiplayer game, ready to be enjoyed by players worldwide.
