@@ -8,6 +8,8 @@ In this tutorial, we'll guide you through the process of creating a 2D multiplay
 ## Step 1: Setting Up Your Development Environment
 Before diving into development, ensure you have Node.js installed on your local machine. Additionally, create accounts on PlayCanvas and Glitch to access the necessary platforms for game development and server hosting.
 
+![](https://github.com/NeatPatel/multiplayer-game/blob/main/images/playcanvas_login.png?raw=true)
+
 ## Step 2: Creating Your PlayCanvas Project
 1. Log in to your PlayCanvas account and create a new project using the 2D template.
 2. Design your game assets, including sprites and backgrounds.
